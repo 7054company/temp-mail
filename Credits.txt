@@ -1,0 +1,14 @@
+Credits
+--------------------
+
+Laravel Framework by Taylor Otwell (License: MIT)
+https://laravel.com/
+
+IMAP Library for Laravel (License: MIT)
+https://github.com/Webklex/laravel-imap
+
+Bootstrap by twbs (License: MIT)
+https://github.com/twbs/bootstrap
+
+ Modify by 7054company (License: -101)
+https://github.com/7054company

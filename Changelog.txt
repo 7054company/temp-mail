@@ -1,0 +1,10 @@
+@7054company update's
+Revamped UI and Backend Functionality
+Upgraded App to Ultilize Laravel Framework
+Page Module
+Menu Module
+Multiple API Keys
+Auto Generate Email
+Stats Functionality
+Social Media Links
+Support for PHP v7.1 and above
